@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="294cf887-0291-4c19-925b-a5ef5d395ea0" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/astract_code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function_list.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base/Bite.java" afterDir="false" />
+    <list default="true" id="294cf887-0291-4c19-925b-a5ef5d395ea0" name="变更" comment="2023.09.29  22.23&#10;beginning">
+      <change afterPath="$PROJECT_DIR$/src/base/BiteUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/Bite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/Bit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +52,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695995098500</updated>
-      <workItem from="1695995099716" duration="2254000" />
+      <workItem from="1695995099716" duration="4268000" />
     </task>
+    <task id="LOCAL-00001" summary="2023.09.29  22.23&#10;beginning">
+      <created>1695997458695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695997458695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023.09.29  22.23&#10;beginning" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.09.29  22.23&#10;beginning" />
   </component>
 </project>
