@@ -61,4 +61,12 @@ public class Bit {
     public Bit or(Bit bit){
         return new Bit(value?true: bit.value);
     }
+
+    /**
+     * 获取输出样式
+     * @return
+     */
+    public String toString(){
+        return ""+(value ? "TRUE" : "FALSE");
+    }
 }
