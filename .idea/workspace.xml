@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="294cf887-0291-4c19-925b-a5ef5d395ea0" name="变更" comment="2023.09.29  22.59&#10;补全了Bite的注释&#10;增加了BiteUtils工具类">
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base_type/Number.java" afterDir="false" />
+    <list default="true" id="294cf887-0291-4c19-925b-a5ef5d395ea0" name="变更" comment="2023.10.01  11.48&#10;增加测试类规范&#10;增加Bit的测试方法&#10;src/base/Bit增加toString方法&#10;新增Number接口">
       <change afterPath="$PROJECT_DIR$/src/base_type/integer/UnlimitedLengthInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base/Bit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/Bit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/function_list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base/BiteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/base/BitUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <workItem from="1696038233798" duration="13755000" />
       <workItem from="1696087121723" duration="184000" />
       <workItem from="1696087468315" duration="1060000" />
-      <workItem from="1696128655551" duration="3750000" />
+      <workItem from="1696128655551" duration="4849000" />
     </task>
     <task id="LOCAL-00001" summary="2023.09.29  22.23&#10;beginning">
       <created>1695997458695</created>
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695999639171</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2023.10.01  11.48&#10;增加测试类规范&#10;增加Bit的测试方法&#10;src/base/Bit增加toString方法&#10;新增Number接口">
+      <created>1696132465909</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696132465909</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023.09.29  22.23&#10;beginning" />
     <MESSAGE value="2023.09.29  22.59&#10;补全了Bite的注释&#10;增加了BiteUtils工具类" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.09.29  22.59&#10;补全了Bite的注释&#10;增加了BiteUtils工具类" />
+    <MESSAGE value="2023.10.01  11.48&#10;增加测试类规范&#10;增加Bit的测试方法&#10;src/base/Bit增加toString方法&#10;新增Number接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.10.01  11.48&#10;增加测试类规范&#10;增加Bit的测试方法&#10;src/base/Bit增加toString方法&#10;新增Number接口" />
   </component>
 </project>

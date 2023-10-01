@@ -3,7 +3,7 @@ package base;
 /**
  * 关于Bit.java的工具类，以后看到类后缀是-Utils就是对应类的工具类，里面的所有方法都应该是static的
  */
-public class BiteUtils {
+public class BitUtils {
     /**
      * True的值
      */
